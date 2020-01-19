@@ -28,7 +28,7 @@
     "lodash": "4.17.13",
     "rxjs": "6.5.2",
     "rxjs-compat": "6.1.0",
-    "uuid": "3.2.1",
+    "uuid": "3.4.0",
     "zone.js": "0.10.2"
   },
   "devDependencies": {
