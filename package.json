@@ -27,7 +27,7 @@
     "core-js": "2.5.7",
     "lodash": "4.17.13",
     "rxjs": "6.5.2",
-    "rxjs-compat": "6.1.0",
+    "rxjs-compat": "6.6.7",
     "uuid": "3.2.1",
     "zone.js": "0.10.2"
   },
